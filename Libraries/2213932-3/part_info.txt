@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=2213932-3
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=4.2
+Released=2018-03-07 16:30:13
+Downloaded=2025-06-21 21:36:29
+3D=Y

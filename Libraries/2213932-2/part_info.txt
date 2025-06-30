@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=2213932-2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2018-03-07 16:41:27
+Downloaded=2025-06-21 20:50:39
+3D=Y

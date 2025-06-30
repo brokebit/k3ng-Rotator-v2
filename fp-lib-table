@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "arduino-library")(type "KiCad")(uri "${KIPRJMOD}/Libraries/arduino/footprints/arduino-library.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/EEH-ZA1J220XP/footprints.pretty")(options "")(descr ""))
+  (lib (name "1844922")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1844922/1844922.pretty")(options "")(descr ""))
+)

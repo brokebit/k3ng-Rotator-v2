@@ -125,8 +125,8 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
+			(layerselection 0x00000000_00000000_55555555_55557000)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000002)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -146,7 +146,7 @@
 			(pdf_metadata yes)
 			(pdf_single_document no)
 			(dxfpolygonmode yes)
-			(dxfimperialunits yes)
+			(dxfimperialunits no)
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
@@ -157,7 +157,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 3)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -8360,8 +8360,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ElvM2"
-		(at 139.020858 75.738096 90)
+	(gr_text "AzM2"
+		(at 139.020858 75.214286 90)
 		(layer "F.SilkS" knockout)
 		(uuid "4b2cd209-1562-4656-a171-86372b825ed1")
 		(effects

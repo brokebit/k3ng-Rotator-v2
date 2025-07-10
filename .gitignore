@@ -1,1 +1,4 @@
 .DS_Store
+*.kicad_prl
+*.lck
+k3ng-Rotator-v2-backups/*

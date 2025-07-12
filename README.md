@@ -1,4 +1,8 @@
 # K3NG Rotator Controller
+
+![Schematic](https://github.com/brokebit/k3ng-Rotator-v2/blob/main/schematic.png?raw=true)
+![3D Render](https://github.com/brokebit/k3ng-Rotator-v2/blob/main/k3ng-Rotator-v2.png?raw=true)
+
 # LCD2004 Connection
 **LCD Pin -> Rotator Pin**
 1. 1 (GND) -> GND
@@ -17,5 +21,3 @@
 14. 14 (Data 7) -> LCD_D7
 15. 15 (Backlight +) -> +5V + Contrast Potentiometer Pin 1
 16. 16 (Backlight -) -> GND + Contrast Potentiometer Pin 3
-![Schematic](https://github.com/brokebit/k3ng-Rotator-v2/blob/main/schematic.png?raw=true)
-![3D Render](https://github.com/brokebit/k3ng-Rotator-v2/blob/main/k3ng-Rotator-v2.png?raw=true)
